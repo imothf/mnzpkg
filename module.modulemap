@@ -1,4 +1,4 @@
-module CGetFactorial {
+module CMinizip {
     header "Sources/Minizip/zip.h"
     link "zip"
     export *
