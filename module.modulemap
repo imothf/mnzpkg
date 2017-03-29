@@ -1,0 +1,5 @@
+module CGetFactorial {
+    header "Sources/Minizip/zip.h"
+    link "zip"
+    export *
+}
